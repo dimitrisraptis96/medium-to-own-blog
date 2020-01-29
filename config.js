@@ -11,7 +11,7 @@ module.exports = {
   author: 'Jim Raptis',
   githubUrl: 'https://github.com/dimitrisraptis96/medium-to-own-blog',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://romantic-bell-6895d4.netlify.com/',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'd__raptis',
